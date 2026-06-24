@@ -2,11 +2,10 @@
 
 A Django REST API microservice for managing songs, artists, and their lyrics.
 
-## Features
-- Create a new song entry (POST)
-- Retrieve all songs (GET)
-- Update song details by ID (PUT)
-- Delete a song by ID (DELETE)
+## Environment Setup
+- Environment name: backend-songs-venv
+- Python version: 3.9.x
+- Setup script: bin/setup.sh
 
 ## Technologies
 - Python 3.10+
